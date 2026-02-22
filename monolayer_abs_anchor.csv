@@ -1,0 +1,4 @@
+material,E_anchor_eV,A_anchor,comment
+WSe2_mono,1.69,0.0493,"Anchor at the WSe2 A-exciton energy using Pop et al., Commun. Phys. 2023 (SI Fig. 1): A(E)=1-exp[-\alpha(E)d] with d=1 nm."
+MoS2_mono,1.975,0.0612,"Anchor at the MoS2 A-exciton peak height read from Bernardi et al. (Grossman group), Nano Lett. 2013 (Fig. 1c)."
+MoTe2_mono,1.10,0.026,"Anchor at A-exciton peak absorbance reported for monolayer MoTe2 (Nano Lett. nl502557g; Fig. 2b right axis)."
